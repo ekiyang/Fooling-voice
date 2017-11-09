@@ -1,0 +1,2 @@
+STAT: include config: ../julius_bat/julius.jconf
+ERROR: m_jconf: failed to open jconf file: ../julius_bat/julius.jconf
